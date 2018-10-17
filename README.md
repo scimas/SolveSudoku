@@ -1,6 +1,6 @@
 Sudoku Solver
 
-A sudoku solver written in python 3 with a gtk3 GUI.
+A sudoku solver written in Python 3 with a gtk 3 GUI.
 
 Usage: There are 2 options.
 
